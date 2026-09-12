@@ -1,6 +1,7 @@
 # SafeRoute
 
 **Crowd-Powered Safety Navigation**
+**Live app:** https://safe-route-blush.vercel.app/ 
 
 ## Overview
 
